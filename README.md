@@ -15,7 +15,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Murcia
 
 **Idiomas:** español (nativo), inglés (B1), alemán (recién empezado)
 
-📫 [LinkedIn](https://www.linkedin.com/in/juancarlosbenítezortega) · jcbenitezortega@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosbenitezortega)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jcbenitezortega@gmail.com)
 
 ---
 
@@ -34,4 +35,5 @@ I'm a **Multiplatform Application Development (DAM)** student based in Murcia, S
 
 **Languages:** Spanish (native), English (B1), German (just started)
 
-📫 [LinkedIn](https://www.linkedin.com/in/juancarlosbenítezortega) · jcbenitezortega@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/juancarlosbenitezortega/?locale=en-US))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jcbenitezortega@gmail.com)
